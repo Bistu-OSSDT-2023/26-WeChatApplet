@@ -20,10 +20,15 @@
 ## 环境部署
 
 在微信小程序导入源码后，需要开通云开发。
+
 打开云开发控制平台，创建一个新的云开发环境。
+
 打开cloudfunctions/mcloud/congif/config.js文件，将CLOUD_ID改为云环境ID。
+
 点击couldfunctions目录，右键选择当前环境，点击mcloud，选择上传并部署：云端安装依赖。
+
 打开云开发控制平台，点击云函数，点击版本与配置，选择当前云函数，点击配置，将超时时间改为60，环境变量改为Key：TZ，Value：Asia/Shanghai。
+
 打开mijiprogram/setting/setting.js文件，将CLOUD_ID改为云环境ID。
 
 
