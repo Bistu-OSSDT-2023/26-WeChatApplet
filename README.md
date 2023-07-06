@@ -10,6 +10,9 @@
 ## LICENSE
 选择GPL license
 
+## 联系我们
+
+haomingqu7@gmail.com
 
 ## 小组成员
 
